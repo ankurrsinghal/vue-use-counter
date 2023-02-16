@@ -4,6 +4,8 @@ This Vue hook was created as an sample to explain the process to create publisha
 
 Tutorial on [Medium](https://medium.com/@ankurr.singhal/create-a-publishable-open-source-vue-library-usecounter-be80278b9ed0)!
 
+Usage Demo [Stackblitz](https://vue-j3vw8z.stackblitz.io)
+
 # Install
 
 ```
