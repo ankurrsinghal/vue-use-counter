@@ -14,7 +14,7 @@ npm install vue-use-counter
 
 # Usage
 
-```
+```vue
 <template>
   <div id="app">
     <div>
